@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927237294186",
+    "project_id": "customerdatarecord-9ef81",
+    "storage_bucket": "customerdatarecord-9ef81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927237294186:android:bc3c94d0dc562e25022213",
+        "android_client_info": {
+          "package_name": "com.example.customer_data_recording"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVbggt2mVG67p3w0YE9WMKJ-KfIwm6Pys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
